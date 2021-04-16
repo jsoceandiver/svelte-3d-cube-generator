@@ -9,3 +9,6 @@ Feel free to play with it and share your feedback.
 https://github.com/jsoceandiver/svelte-3d-cube-generator
 
 https://twitter.com/jsoceandiver
+
+![screenshot](https://user-images.githubusercontent.com/48171962/115065856-609dd800-9ef7-11eb-90be-1952e1367140.png)
+
