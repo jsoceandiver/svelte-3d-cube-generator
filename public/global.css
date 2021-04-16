@@ -1,0 +1,26 @@
+:root {
+	--font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+	--google-font: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+
+	--dark-color-1: #111;
+	--mark-color-1: #007cad;
+	--mark-color-2: #006d98;
+	--mark-color-3: #004860;
+	--dark-transparent-color: rgba(0,0,0,0.7);
+}
+
+html, body{
+	padding: 0;
+	margin: 0;
+	font-family: var(--google-font);
+	font-weight: 300;
+	font-size: 1rem;
+	background: #fff;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
+*{
+	box-sizing: border-box;
+}
