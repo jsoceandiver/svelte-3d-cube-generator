@@ -6,7 +6,7 @@ This project is an experiment with **Svelte JS** and **3D CSS**. It's a small ge
 
 Feel free to play with it and share your feedback.
 
-https://github.com/jsoceandiver/svelte-3d-cube-generator
+https://jsocean.org/svelte-3d-cube-generator/
 
 https://twitter.com/jsoceandiver
 
