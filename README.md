@@ -1,4 +1,4 @@
-# CSS 3D Cube Generator
+# CSS 3D Cube / Box Generator
 
 https://user-images.githubusercontent.com/48171962/115065705-25030e00-9ef7-11eb-8e26-3c1ff07f5845.mp4
 
