@@ -16,6 +16,7 @@ html, body{
     color: #111;
     width: 100vw;
     min-height: 100vh;
+    perspective: 2000px;
 }
 
 .cube{
@@ -29,7 +30,6 @@ html, body{
     height: var(--height);
     position: relative;
 
-    perspective: 2000px;
     transform-style: preserve-3d;
 
     font-size: 1.5rem;
