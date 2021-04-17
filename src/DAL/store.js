@@ -32,7 +32,7 @@ const store = writable({
     topFaceText: getStringValue('topFaceText', 'Top'),
     bottomFaceText: getStringValue('bottomFaceText', 'Bottom'),
     frontFaceText: getStringValue('frontFaceText', 'Front'),
-    backFaceText: getStringValue('Back', 'Front'),
+    backFaceText: getStringValue('backFaceText', 'Back'),
 
     // background colors
     leftFaceBgColor: getStringValue('leftFaceBgColor', '#a178d3'),
